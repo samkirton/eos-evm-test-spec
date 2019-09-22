@@ -44,6 +44,24 @@
         }
       },
       {
+		"//comment" : "Not enough gas to cover the data or Call",
+        "indexes": {
+          "data": [0,1,2,3,9],
+          "gas": [1,2,3],
+          "value": -1
+        },
+        "network": [">=Istanbul"],
+        "result": {
+          "1000000000000000000000000000000000000000": {
+            "storage": {
+            }
+          },
+          "a94f5374fce5edbc8e2a8697c15331677e6ebf0b": {
+            "nonce": "1"
+          }
+        }
+      },
+      {
         "indexes": {
           "data": [4],
           "gas": -1,
