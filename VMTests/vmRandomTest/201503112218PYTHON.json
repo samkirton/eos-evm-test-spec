@@ -5,7 +5,8 @@
             "filledwith" : "testeth 1.8.0-5+commit.9ab7d09a",
             "lllcversion" : "Version: 0.5.14-develop.2020.3.30+commit.8f259595.Linux.g++",
             "source" : "src/VMTestsFiller/vmRandomTest/201503112218PYTHONFiller.json",
-            "sourceHash" : "660a796a0933ec93981677ee4a9de906574bfea433d047fdea8d7122f4d8053d"
+            "sourceHash" : "660a796a0933ec93981677ee4a9de906574bfea433d047fdea8d7122f4d8053d",
+            "unitOnly": true
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

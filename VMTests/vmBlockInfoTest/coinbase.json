@@ -5,7 +5,8 @@
             "filledwith" : "testeth 1.8.0-5+commit.9ab7d09a",
             "lllcversion" : "Version: 0.5.14-develop.2020.3.30+commit.8f259595.Linux.g++",
             "source" : "src/VMTestsFiller/vmBlockInfoTest/coinbaseFiller.json",
-            "sourceHash" : "3ea6341b9f7028c4ecf92c8bb67a5f356eb1bf69b5f169f93ce95a764db29aa2"
+            "sourceHash" : "3ea6341b9f7028c4ecf92c8bb67a5f356eb1bf69b5f169f93ce95a764db29aa2",
+            "unitOnly": true
         },
         "callcreates" : [
         ],

@@ -5,7 +5,8 @@
             "filledwith" : "testeth 1.8.0-5+commit.9ab7d09a",
             "lllcversion" : "Version: 0.5.14-develop.2020.3.30+commit.8f259595.Linux.g++",
             "source" : "src/VMTestsFiller/vmIOandFlowOperations/BlockNumberDynamicJumpInsidePushWithoutJumpDestFiller.json",
-            "sourceHash" : "72fed632e79b5ecd4ed832d3c70dd93e7376758da6482b910d7c100cb198a12b"
+            "sourceHash" : "72fed632e79b5ecd4ed832d3c70dd93e7376758da6482b910d7c100cb198a12b",
+            "unitOnly": true
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",

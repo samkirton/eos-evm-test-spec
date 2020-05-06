@@ -5,7 +5,8 @@
             "filledwith" : "testeth 1.8.0-5+commit.9ab7d09a",
             "lllcversion" : "Version: 0.5.14-develop.2020.3.30+commit.8f259595.Linux.g++",
             "source" : "src/VMTestsFiller/vmBlockInfoTest/timestampFiller.json",
-            "sourceHash" : "35f96abbf3bc6ca3a0ee259ba10f1bc847ca6dfd88bb6ee7253a5507a647746e"
+            "sourceHash" : "35f96abbf3bc6ca3a0ee259ba10f1bc847ca6dfd88bb6ee7253a5507a647746e",
+            "unitOnly": true
         },
         "callcreates" : [
         ],

@@ -5,7 +5,8 @@
             "filledwith" : "testeth 1.8.0-5+commit.9ab7d09a",
             "lllcversion" : "Version: 0.5.14-develop.2020.3.30+commit.8f259595.Linux.g++",
             "source" : "src/VMTestsFiller/vmBlockInfoTest/gaslimitFiller.json",
-            "sourceHash" : "ed0be725177a4ea2e22ae09fffa2a773f44008bcfd0ccbaa703ccbae25ea468c"
+            "sourceHash" : "ed0be725177a4ea2e22ae09fffa2a773f44008bcfd0ccbaa703ccbae25ea468c",
+            "unitOnly": true
         },
         "callcreates" : [
         ],

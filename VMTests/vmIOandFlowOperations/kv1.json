@@ -5,7 +5,8 @@
             "filledwith" : "testeth 1.8.0-5+commit.9ab7d09a",
             "lllcversion" : "Version: 0.5.14-develop.2020.3.30+commit.8f259595.Linux.g++",
             "source" : "src/VMTestsFiller/vmIOandFlowOperations/kv1Filler.json",
-            "sourceHash" : "a37c1136aadbe50bbe0e26ff2340c94fa98ed7c59f1e711dd3c831e18d944aab"
+            "sourceHash" : "a37c1136aadbe50bbe0e26ff2340c94fa98ed7c59f1e711dd3c831e18d944aab",
+            "unitOnly": true
         },
         "callcreates" : [
         ],

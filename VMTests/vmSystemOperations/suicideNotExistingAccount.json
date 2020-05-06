@@ -5,7 +5,8 @@
             "filledwith" : "testeth 1.8.0-5+commit.9ab7d09a",
             "lllcversion" : "Version: 0.5.14-develop.2020.3.30+commit.8f259595.Linux.g++",
             "source" : "src/VMTestsFiller/vmSystemOperations/suicideNotExistingAccountFiller.json",
-            "sourceHash" : "39f395aa8831ab058d7d5684f915ff49dfa11a24b2be73e8a28e674d2cd50044"
+            "sourceHash" : "39f395aa8831ab058d7d5684f915ff49dfa11a24b2be73e8a28e674d2cd50044",
+            "unitOnly": true
         },
         "callcreates" : [
         ],

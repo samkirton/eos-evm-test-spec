@@ -5,7 +5,8 @@
             "filledwith" : "testeth 1.8.0-5+commit.9ab7d09a",
             "lllcversion" : "Version: 0.5.14-develop.2020.3.30+commit.8f259595.Linux.g++",
             "source" : "src/VMTestsFiller/vmEnvironmentalInfo/originFiller.json",
-            "sourceHash" : "98200000626ee316522fa419c3bc652ea21bf9fc8cc5ea8da5f5045ea96c2efb"
+            "sourceHash" : "98200000626ee316522fa419c3bc652ea21bf9fc8cc5ea8da5f5045ea96c2efb",
+            "unitOnly": true
         },
         "callcreates" : [
         ],

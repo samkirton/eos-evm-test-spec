@@ -5,7 +5,8 @@
             "filledwith" : "testeth 1.8.0-5+commit.9ab7d09a",
             "lllcversion" : "Version: 0.5.14-develop.2020.3.30+commit.8f259595.Linux.g++",
             "source" : "src/VMTestsFiller/vmIOandFlowOperations/BlockNumberDynamicJump0_jumpdest0Filler.json",
-            "sourceHash" : "f928000df0200737445946339401263c2fb762367135ca2b38c1ac89928fc3f6"
+            "sourceHash" : "f928000df0200737445946339401263c2fb762367135ca2b38c1ac89928fc3f6",
+            "unitOnly": true
         },
         "callcreates" : [
         ],

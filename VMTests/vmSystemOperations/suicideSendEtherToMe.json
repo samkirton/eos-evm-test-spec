@@ -5,7 +5,8 @@
             "filledwith" : "testeth 1.8.0-5+commit.9ab7d09a",
             "lllcversion" : "Version: 0.5.14-develop.2020.3.30+commit.8f259595.Linux.g++",
             "source" : "src/VMTestsFiller/vmSystemOperations/suicideSendEtherToMeFiller.json",
-            "sourceHash" : "d08db205143fef84384df715ddff4b84f052e671d06fbf8b30887733526734bf"
+            "sourceHash" : "d08db205143fef84384df715ddff4b84f052e671d06fbf8b30887733526734bf",
+            "unitOnly": true
         },
         "callcreates" : [
         ],

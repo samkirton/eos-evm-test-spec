@@ -5,7 +5,8 @@
             "filledwith" : "testeth 1.8.0-5+commit.9ab7d09a",
             "lllcversion" : "Version: 0.5.14-develop.2020.3.30+commit.8f259595.Linux.g++",
             "source" : "src/VMTestsFiller/vmBlockInfoTest/difficultyFiller.json",
-            "sourceHash" : "0acb4359aa0d0be2f1bff07b7aeac0ac0b88d0bcf61ccb1e332bb8679a32a0b0"
+            "sourceHash" : "0acb4359aa0d0be2f1bff07b7aeac0ac0b88d0bcf61ccb1e332bb8679a32a0b0",
+            "unitOnly": true
         },
         "callcreates" : [
         ],

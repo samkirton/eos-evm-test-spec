@@ -5,7 +5,8 @@
             "filledwith" : "testeth 1.8.0-5+commit.9ab7d09a",
             "lllcversion" : "Version: 0.5.14-develop.2020.3.30+commit.8f259595.Linux.g++",
             "source" : "src/VMTestsFiller/vmSystemOperations/suicide0Filler.json",
-            "sourceHash" : "f4e5b6480ad5f38a813c9a5663b2fceac7f2e741a6cdf2df51b01e0a9d98f224"
+            "sourceHash" : "f4e5b6480ad5f38a813c9a5663b2fceac7f2e741a6cdf2df51b01e0a9d98f224",
+            "unitOnly": true
         },
         "callcreates" : [
         ],
